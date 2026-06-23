@@ -1,1 +1,7 @@
+language: python
 
+python:
+  - "3.11.4"
+
+script:
+  - python travis.py
